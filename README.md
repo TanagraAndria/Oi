@@ -1,3 +1,4 @@
+<a align="center" href="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" target="_blank"> <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/> </a> 
 <h3 align="center">Olá 👋, tudo bem?</h3>
 <h4>Pode me chamar de Tân. sou formada em Design Gráfico e atualmente estou me formando Desenvolvedora Front - End na Laboratoria, e cursando o segundo semestre do curso superior em Gestão da Tecnologia da Informação. Sou apaixonada por UX/ UI Design, CSS e HTML.</h4>
 
