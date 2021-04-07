@@ -19,4 +19,4 @@
 
 <p> Me formei em 2011 em Teatro, e trabalhei como atriz por 10 anos, em paralelo também trabalhei com Design gráfico. Essas experiências me trouxeram uma bagagem variada  no qual eu destaco a criatividade, trabalho em equipe e a comunicação.</p>
 
-img align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif />
+<img align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif />
