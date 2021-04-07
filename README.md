@@ -5,7 +5,7 @@
 
 <h4 align="left">Meus contatos:</h4>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/andriadesign/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/andriadesign/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/andriadesign/" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-6.png" alt="https://www.instagram.com/andriadesign/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/tanagraandria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/tanagraandria" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tanagraandria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tanagraandria" height="30" width="40" /></a>
   <a href="mailto:tanagra.andria@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="https://www.gmail.com" height="30" width="40" /></a>
