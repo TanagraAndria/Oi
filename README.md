@@ -1,5 +1,5 @@
 <h3 align="center">Olá 👋, tudo bem?</h3>
-<h3>Pode me chamar de Tân. sou formada Designer gráfico e atualmente estou me formando Desenvolvedora Front - End na Laboratoria, e cursando o segundo semestre do curso superior em Gestão da Tecnologia da Informação. Sou apaixonada por UX/ UI Design, CSS e HTML.</h3>
+<h1>Pode me chamar de Tân. sou formada Designer gráfico e atualmente estou me formando Desenvolvedora Front - End na Laboratoria, e cursando o segundo semestre do curso superior em Gestão da Tecnologia da Informação. Sou apaixonada por UX/ UI Design, CSS e HTML.</h1>
 
 
 <h3 align="left">Meus contatos:</h3>
