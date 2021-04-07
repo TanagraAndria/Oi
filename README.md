@@ -3,7 +3,6 @@
 
 
 <h4 align="left">Meus contatos:</h4>
-📫  **tanagra.andria@gmail.com** 
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/andriadesign/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/andriadesign/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/tanagraandria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/tanagraandria" height="30" width="40" /></a>
