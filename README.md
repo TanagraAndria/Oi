@@ -1,4 +1,4 @@
-<p align="center" > <a href="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" target="_blank"> <img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" height="100" width="110"/> </a> </p>
+<p align="center" > <a href="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" target="_blank"> <img src="https://media.giphy.com/media/xUOrw1avEiJvQJlo76/giphy.gif" height="200" width="210"/> </a> </p>
 <h3 align="center"> 👋 Tudo bem?</h3>
 <h4>Pode me chamar de Tân. sou formada em Design Gráfico e atualmente estou me formando Desenvolvedora Front - End na Laboratoria, e cursando o segundo semestre do curso superior em Gestão da Tecnologia da Informação. Sou apaixonada por UX/ UI Design, CSS e HTML.</h4>
 
@@ -20,5 +20,5 @@
 
 <p> Me formei em 2011 em Teatro, e trabalhei como atriz por 10 anos, em paralelo também trabalhei com Design gráfico. Essas experiências me trouxeram uma bagagem variada  no qual eu destaco a criatividade, trabalho em equipe e a comunicação.</p>
 
-<a align="center" href="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" target="_blank"> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"/> </a> 
+<p align="center" > <a href="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" target="_blank"> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"/> </a> </p>
 
