@@ -20,7 +20,7 @@ Acredito que a tecnologia e a criatividade se complementam.
 
 <h4 align="left">Curiosidade:</h4>
 <p>- Estou cursando o segundo ano de Gestão de TI </p>
-*<p>- Tenho graduação em Design Gráfico, e tecnólogo em Arte Dramática, por 10 anos atuei como atriz, e em paralelo com designer , ambas experiências me trouxeram uma bagagem variada no qual eu destaco a criatividade, trabalho em equipe, adaptabilidade, cultura de feedback e a comunicação.</p>
+<p>- Tenho graduação em Design Gráfico, e tecnólogo em Arte Dramática, por 10 anos atuei como atriz, e em paralelo com designer , ambas experiências me trouxeram uma bagagem variada no qual eu destaco a criatividade, trabalho em equipe, adaptabilidade, cultura de feedback e a comunicação.</p>
 
 <h4 align="left">Meus contatos:</h4>
 <p align="left">
