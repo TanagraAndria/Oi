@@ -16,7 +16,10 @@ tudo bem?</h3>
 
 <h4 align="left">Curiosidade:</h4>
 
-<p> Me formei em 2011 em Teatro, e trabalhei como atriz por 10 anos, em paralelo também trabalhei com Design gráfico. Essas experiências me trouxeram uma bagagem variada  no qual eu destaco a criatividade, trabalho em equipe e a comunicação.</p>
+* <p> Me formei em 2011 em Teatro, e trabalhei como atriz por 10 anos, em paralelo também trabalhei com Design gráfico. Essas experiências me trouxeram uma bagagem variada  no qual eu destaco a criatividade, trabalho em equipe e a comunicação.</p>
+* <p> Iniciei meus estudos de programação Front-End no bootcamp da Laboratória. O bootcamp  tem duração de 6 meses com foco em empregabilidade de mulheres na área de programação. No bootcamp são desenvolvidas não só as habilidades técnicas, como também as habilidades socioemocionais e profissionais, como autoaprendizagem, comunicação, e trabalho em equipe.
+(<a href="https://selecao.laboratoria.la/?utm_source=googleads&utm_medium=cpc&utm_campaign=SAP007&campaignid=1074376990&adgroupid=54233589762&gclid=CjwKCAjwgISIBhBfEiwALE19SV0oBq0gNp4Cf0RPLtfcxVprHB7sknT4XLq8usFvLLZ2o6BKPx9N5xoCiTIQAvD_BwE" target="blank"><img src="https://v.fastcdn.co/u/cf943cfe/27418802-0-Laboratoria-Logo-RGB.png"  width="80"/></a>)
+</p>
 
 <h4 align="left">Meus contatos:</h4>
 <p align="left">
