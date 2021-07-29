@@ -2,8 +2,11 @@
 
 <h2>Olá,
 tudo bem?</h2>
-<h3>Me chamo a Tânagra, mas pode me chamar de Tân. <br> 
- Sou desenvolvedora front-end, estou cursando o segundo ano de Gestão de TI, e tenho formação em  Design Gráfico. </h3>
+<h4>Me chamo a Tânagra, mas pode me chamar de Tân. <br> 
+ Sou Desenvolvedora Front- End, estou cursando o segundo ano de Gestão de TI.
+Gosto muito de estudar e ter novos desafios, e com essa motivação participei do processo de formação de Desenvolvimento Front-end no Bootcamp da<a href="https://selecao.laboratoria.la/?utm_source=googleads&utm_medium=cpc&utm_campaign=SAP007&campaignid=1074376990&adgroupid=54233589762&gclid=CjwKCAjwgISIBhBfEiwALE19SV0oBq0gNp4Cf0RPLtfcxVprHB7sknT4XLq8usFvLLZ2o6BKPx9N5xoCiTIQAvD_BwE" target="blank"><img src="https://v.fastcdn.co/u/cf943cfe/27418802-0-Laboratoria-Logo-RGB.png"  width="80"/></a>, que contribuiu com a minha autoaprendizagem e me inspirou a iniciar uma nova graduação na área de tecnologia.
+Acredito que a tecnologia e a criatividade se complementam.
+ </h4>
 <br>
 <h4>Linguagens e softwares:</h4> <br>
 <p align="left"> <a> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -18,9 +21,6 @@ tudo bem?</h2>
 <h4 align="left">Curiosidade:</h4>
 
 * <p> Tenho graduação em Design Gráfico, e tecnólogo em Arte Dramática, por 10 anos atuei como atriz, e em paralelo com designer , ambas experiências me trouxeram uma bagagem variada no qual eu destaco a criatividade, trabalho em equipe, adaptabilidade, cultura de feedback e a comunicação.</p>
-* <p> Gosto muito de estudar e ter novos desafios, e com essa motivação participei do processo de formação de Desenvolvimento Front-end no Bootcamp da <a href="https://selecao.laboratoria.la/?utm_source=googleads&utm_medium=cpc&utm_campaign=SAP007&campaignid=1074376990&adgroupid=54233589762&gclid=CjwKCAjwgISIBhBfEiwALE19SV0oBq0gNp4Cf0RPLtfcxVprHB7sknT4XLq8usFvLLZ2o6BKPx9N5xoCiTIQAvD_BwE" target="blank"><img src="https://v.fastcdn.co/u/cf943cfe/27418802-0-Laboratoria-Logo-RGB.png"  width="80"/></a>, que contribuiu com a minha autoaprendizagem e me inspirou a iniciar uma nova graduação na área de tecnologia.
-Acredito que a tecnologia e a criatividade se complementam.
-</p>
 
 <h4 align="left">Meus contatos:</h4>
 <p align="left">
