@@ -2,19 +2,18 @@
 <table>
   <tr>
     <td>
-     ![alt text](capa.png)
+    **Olá! Eu sou a Tânagra Andria** </br>
+🎓 **Formada em Gestão da Tecnologia da Informação**  </br>
+💻 **Desenvolvedora Front-End**  </br>
+🚀 **Apaixonada por criar experiências web intuitivas e eficientes**
     </td>
-    <td>
-    **Olá! Eu sou a Tânagra Andria** 👋
+      <td>
+  <img src="./capa.png"  width="90" height="90"/>
     </td>
   </tr>
 </table>
 
 
-
-🎓 **Formada em Gestão da Tecnologia da Informação**  
-💻 **Desenvolvedora Front-End**  
-🚀 **Apaixonada por criar experiências web intuitivas e eficientes**
 
 ## 🛠 Tecnologias e Ferramentas
 
