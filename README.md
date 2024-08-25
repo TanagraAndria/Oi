@@ -1,4 +1,16 @@
-**Olá! Eu sou a Tânagra Andria** 👋
+
+<table>
+  <tr>
+    <td>
+     ![alt text](capa.png)
+    </td>
+    <td>
+    **Olá! Eu sou a Tânagra Andria** 👋
+    </td>
+  </tr>
+</table>
+
+
 
 🎓 **Formada em Gestão da Tecnologia da Informação**  
 💻 **Desenvolvedora Front-End**  
