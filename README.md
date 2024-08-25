@@ -1,19 +1,7 @@
-
-<table>
-  <tr>
-    <td>
-    **Olá! Eu sou a Tânagra Andria** </br>
-🎓 **Formada em Gestão da Tecnologia da Informação**  </br>
-💻 **Desenvolvedora Front-End**  </br>
+ 
+🎓 **Formada em Gestão da Tecnologia da Informação**  
+💻 **Desenvolvedora Front-End**  
 🚀 **Apaixonada por criar experiências web intuitivas e eficientes**
-    </td>
-      <td>
-  <img src="./capa.png"  width="90" height="90"/>
-    </td>
-  </tr>
-</table>
-
-
 
 ## 🛠 Tecnologias e Ferramentas
 
