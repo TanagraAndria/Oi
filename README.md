@@ -1,4 +1,6 @@
- 
+  <img src="./capa.png"/>
+
+  
 🎓 **Formada em Gestão da Tecnologia da Informação**  
 💻 **Desenvolvedora Front-End**  
 🚀 **Apaixonada por criar experiências web intuitivas e eficientes**
